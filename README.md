@@ -45,4 +45,4 @@ Each server tick the mod walks every player, checks main hand and off hand for a
 
 ## License
 
-MIT.
+[MIT](LICENSE).
