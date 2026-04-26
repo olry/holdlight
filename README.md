@@ -1,4 +1,6 @@
 # Holdlight
+<img width="567" height="429" alt="image" src="https://github.com/user-attachments/assets/b6092b83-4e12-42dd-84ae-fca7be20ad5c" />
+
 
 Minecraft 1.21.1 NeoForge mod. Hold a torch and the area around you lights up. Hold a lantern, jack o'lantern, glowstone, end rod, redstone torch, anything that emits light as a placed block, same deal. Switch to a sword and it goes dark again.
 
