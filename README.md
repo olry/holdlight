@@ -46,7 +46,3 @@ Each server tick the mod walks every player, checks main hand and off hand for a
 ## License
 
 MIT.
-
-## Tags
-
-minecraft, minecraft-mod, neoforge, neoforge-mod, minecraft-1-21, minecraft-1-21-1, dynamic-lights, dynamic-lighting, held-light, torch-light, lantern, java-edition
