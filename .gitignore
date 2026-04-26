@@ -1,0 +1,35 @@
+# Gradle
+.gradle/
+build/
+src/generated/
+
+# Dev runs (runClient/runServer)
+run/
+runs/
+
+# IDE — IntelliJ
+.idea/
+*.iml
+*.ipr
+*.iws
+out/
+
+# IDE — Eclipse
+.classpath
+.project
+.settings/
+bin/
+
+# IDE — VS Code
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Java
+*.class
+hs_err_pid*
+
+# Logs
+*.log
